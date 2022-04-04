@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/render_paragraph/static/js/main.b0ec079a.js",
+    "main.js": "/render_paragraph/static/js/main.a34cdf20.js",
     "index.html": "/render_paragraph/index.html",
-    "main.b0ec079a.js.map": "/render_paragraph/static/js/main.b0ec079a.js.map"
+    "main.a34cdf20.js.map": "/render_paragraph/static/js/main.a34cdf20.js.map"
   },
   "entrypoints": [
-    "static/js/main.b0ec079a.js"
+    "static/js/main.a34cdf20.js"
   ]
 }
